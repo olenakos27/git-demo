@@ -13,6 +13,3 @@ Plus 10th line.
 Plus 11th line.
 Plus 12th line.
 
-New line 
-Today is 20.08.2023
---------------------
